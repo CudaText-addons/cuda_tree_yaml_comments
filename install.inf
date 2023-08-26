@@ -1,0 +1,9 @@
+[info]
+title=TreeHelper for YAML
+desc=TreeHelper for YAML lexers
+type=cudatext-plugin
+subdir=cuda_tree_yaml_comments
+
+[treehelper_yaml]
+lexers=YAML
+method=get_headers

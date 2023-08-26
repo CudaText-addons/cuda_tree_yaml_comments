@@ -1,6 +1,6 @@
 [info]
 title=TreeHelper for YAML
-desc=TreeHelper for YAML lexers
+desc=TreeHelper for YAML lexer
 type=cudatext-plugin
 subdir=cuda_tree_yaml_comments
 

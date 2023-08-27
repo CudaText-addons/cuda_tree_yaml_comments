@@ -1,8 +1,9 @@
 [info]
 title=TreeHelper for YAML
-desc=TreeHelper for YAML lexer
+desc=TreeHelper for YAML lexer which shows single-line comments
 type=cudatext-plugin
 subdir=cuda_tree_yaml_comments
+homepage=https://github.com/CudaText-addons/cuda_tree_yaml_comments
 
 [treehelper_yaml]
 lexers=YAML
